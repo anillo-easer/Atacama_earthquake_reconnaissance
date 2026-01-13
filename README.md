@@ -7,3 +7,5 @@ This repository comprises the information used in the submitted article: "Assess
 by Gonzalo Montalva, Pablo Heresi, Rosita, Jüneman, Sebastián Calderón, Felipe Leyton, Javier Ojeda, Yasmín Delgado-González, Nicolás Bastías, Rodrigo Rojas, Diego Avendaño, Catalina Brule
 
 Paper data available at [Zenodo](10.5281/zenodo.18233849) 
+
+10.5281/zenodo.18233849
