@@ -8,4 +8,4 @@ by Gonzalo Montalva, Pablo Heresi, Rosita, Jüneman, Sebastián Calderón, Felip
 
 *Paper data available* at [10.5281/zenodo.18233849](https://doi.org/10.5281/zenodo.18233849)
 
-![CSN records.](/images/Records_S1.png)
+![CSN records.](/images/Records_S2.png)
