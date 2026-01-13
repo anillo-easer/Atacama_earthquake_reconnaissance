@@ -6,6 +6,9 @@
 This repository comprises the information used in the submitted article: "Assessment of Site Response and Building Damage following the Mw 6.4 Copiapó Earthquake."
 by Gonzalo Montalva, Pablo Heresi, Rosita, Jüneman, Sebastián Calderón, Felipe Leyton, Javier Ojeda, Yasmín Delgado-González, Nicolás Bastías, Rodrigo Rojas, Diego Avendaño, Catalina Brule
 
-*Paper data available* at [10.5281/zenodo.18233849](https://doi.org/10.5281/zenodo.18233849)
+**Paper data available** at [10.5281/zenodo.18233849](https://doi.org/10.5281/zenodo.18233849)
 
+
+
+*Figure: Strong-ground motion records from the CSN evtdb.*
 ![CSN records.](/images/Records_S2.png)
